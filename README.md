@@ -1,2 +1,4 @@
 # Clock
-A analog clock made by using HTML, CSS and Javascript
+### This is a simple analog clock mode by using javascript
+This is built using HTML, CSS, JavaScript <br/>
+<img src="Asset/img1.png"> <br/>
